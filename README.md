@@ -1,4 +1,4 @@
-## Repository for Fall 2023 Probabilistic Time Series Analysis
+## Repository for Fall 2023 Probabilistic Time Series Analysis Final Project
 Guide for different folders and files:
 * <b>data_raw</b>: air pollution concentrations for Pittsburgh from the Mobile Aerosol Mass Spectrometer
 (AMS) dataset, developed by the Center for Air, Climate and Energy Solutions (CACES).
